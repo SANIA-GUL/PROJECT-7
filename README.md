@@ -15,7 +15,7 @@ Mix them with a TIMIT file(acting as Masker). All source files are in "grid corp
 
 Step 3:
 
-The mixtures are called "ANchors". Separate them by using MESSL, DUET, CMESSL, FRU, SONET, EMSONET source separation algorithms present in their respective folders present in this repository. All anchors, references (clean grid files), and Estimated targets are already stored in the "QUALITY TESTING FOLDER' present in this repository. 
+The mixtures are called "ANchors". Separate them by using MESSL, DUET, CMESSL, FRU, SONET (use gregnet90.mat and ipd90.mat to generate ILD and IPD masks respectively), EMSONET (use gregnet90.mat to generate ILD mask) source separation algorithms present in their respective folders present in this repository. All anchors, references (clean grid files), and Estimated targets are already stored in the "QUALITY TESTING FOLDER' present in this repository. 
 
 Step 4:
 
