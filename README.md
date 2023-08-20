@@ -30,7 +30,7 @@ INTELLIGIBILITY
 
 Step1:
 
-Send all files in INTELLIGIBILITY TESTING FOLDER present in Project-7 (Quality and Intelligibility evaluation for Anechoic Separation.rar) folder in this repository to listeners by email for subjective evaluation. These are the Estimated targets from all speech separation algorithms. The files must be accompanied by Excel sheet where the users can select the 'keywords' for each file. Add the scores for the correctly identified keywords.
+Send all files in INTELLIGIBILITY TESTING FOLDER present in Project-7 (Quality and Intelligibility evaluation for Anechoic Separation.rar) folder in this repository to listeners by email for subjective evaluation. These are the Estimated targets from all speech separation algorithms. The files must be accompanied by an Excel sheet (TemplateSubjective testing intelligibility.xlsx given in this repository) where the users can select the 'keywords' for each file. Add the scores for the correctly identified keywords.
 
 
 Step2: 
