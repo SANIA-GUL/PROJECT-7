@@ -11,7 +11,7 @@ Download PEASS toolKit from http://bass-db.gforge.inria.fr/peass/ and Grid Corpu
 
 Step 2:
 
-Mix them with a TIMIT file(acting as Masker). All source files are in "grid corpus clips" folder.
+Mix them with a TIMIT file(acting as Masker). All source files are in "grid corpus clips" folder. After mixing the mixtures called as "Anchors.wav" along with clean reference files "Reference.wav" are present in the "Ref and Anchor" folder in this repository.
 
 Step 3:
 
